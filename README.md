@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alessia</h1>
 <h6 align="left">I’m a Computer Engineering student from Italy</h6>
 
-🔭 I’m currently working on [Crypto Tracker](https://github.com/alesarritz/crypto-tracker) <br>
+🪙 Look at my last Flutter project [Crypto Tracker](https://github.com/alesarritz/crypto-tracker) <br>
+🌭 Look at my last Java project [Food Delivery](https://github.com/alesarritz/food-delivery) <br>
 📨 Contact me at <a href="alesarritz@gmail.com">alesarritz@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
