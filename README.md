@@ -16,7 +16,9 @@
 [Data Entry Job Automation](https://github.com/alesarritz/data-entry-job-automation), 
 [Coffee API](https://github.com/alesarritz/coffee-API)<br>
 [Blog](https://github.com/alesarritz/alessia-blog), 
-[Predict House Price](https://github.com/alesarritz/predict-house-price)<br><br>
+[Predict House Price](https://github.com/alesarritz/predict-house-price),
+[Morse Code Converter](https://github.com/alesarritz/morse-code-converter)
+<br><br>
 🌭 Look at my last Java project [Food Delivery](https://github.com/alesarritz/food-delivery) <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
