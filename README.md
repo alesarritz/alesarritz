@@ -4,6 +4,9 @@
 
 📨 Contact me at <a href="alesarritz@gmail.com">alesarritz@gmail.com</a> <br>
 
+📹 Support me on my [YouTube Channel](https://youtu.be/2mza5BtOefU) and follow my Advanced Algorithms serie. 
+<br>&emsp;&ensp;&nbsp;Complete code here: [Advanced Algorithms](https://github.com/alesarritz/advanced-algorithms/)
+
 📱 Look at my last Flutter projects 
 [Do Now](https://github.com/alesarritz/do-now), 
 [Corporate Chat](https://github.com/alesarritz/corporate-chat), 
