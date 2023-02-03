@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessia</h1>
-<h6 align="left">I’m a Computer Engineer from Italy</h6>
+<h6 align="left">I’m a Software Engineer from Italy</h6>
 
 
 📨 Contact me at <a href="alesarritz@gmail.com">alesarritz@gmail.com</a> <br>
